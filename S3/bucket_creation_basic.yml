@@ -1,0 +1,4 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: Template create S3 folder
+Resources:
+  Type: AWS::S3::Bucket
